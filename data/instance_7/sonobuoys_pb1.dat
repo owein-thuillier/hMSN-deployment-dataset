@@ -1,0 +1,8 @@
+A, TxRx, HF, 45, 3
+B, TxRx, LF, 70, 0
+C, Tx, HF, 60, 3
+D, Tx, LF, 60, 0
+E, Rx, HF, 80, 4
+F, Rx, HF, 90, 4
+G, Rx, LF, 100, 0
+H, Rx, LF, 110, 0
