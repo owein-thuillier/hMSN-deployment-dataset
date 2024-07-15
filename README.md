@@ -9,7 +9,7 @@ These instances, located in the ```data/instances``` folder at the root of this 
 - ```sonobuoys_pb1.dat```: number of buoys of each type for problem no. 1 (+ lifetime in minutes); 
 -  ```sonobuoys_pb2.dat```: number of buoys of each type for problem no. 2 (+ lifetime in minutes); 
 - ```positions.dat```: positions of the various buoys after solving problem no. 1 (input data for problem no. 2); 
-- ```max_coverage_rate.dat```: maximum coverage rate (%) after solving problem no. 1
+- ```max_coverage_rate.dat```: maximum coverage rate (%) after solving problem no. 1;
 - ```base.dat```: geographic coordinates of naval base (latitude, longitude);
 - ```mission_duration.dat```: mission duration, in minutes.
 
