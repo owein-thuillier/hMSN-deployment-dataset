@@ -1,4 +1,4 @@
-# Dataset for "Integrated routing and scheduling problem for the airborne deployment of heterogeneous multistatic sonar networks in a coverage scenario"
+# Dataset for "Integrated routing and scheduling problem for the airborne deployment of heterogeneous multistatic sonar networks"
 
 
 As a complement to the research paper entitled "Integrated routing and scheduling problem for the airborne deployment of heterogeneous multistatic sonar networks in a coverage scenario", we here provide all 15 instances used. 
